@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	justify-content: center;
+	box-sizing: border-box;
+}
+header{
+	padding: 0.5em;
+	text-align: center;
+	width: 100%;
+}
+body{
+		justify-content: center;
+		flex-direction: column;
+}
+
+h1{
+	border:  2px solid #555;
+	text-align: center;
+}
+
+div{text-align: center;
+	border:  2px solid #555;
+	display:  inline-block;
+	width: 50%;
+	margin: 10px;
+	background: #419af9;
+}
+input{
+	border-radius: 10px;
+}
